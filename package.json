@@ -1,0 +1,18 @@
+{
+  "name": "electron-practise",
+  "version": "1.0.0",
+  "description": "Get Weather with python",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Saim Node",
+  "license": "ISC",
+  "dependencies": {
+    "python-shell": "^1.0.7"
+  },
+  "devDependencies": {
+    "electron": "^4.1.4",
+    "sweetalert": "^2.1.2"
+  }
+}
