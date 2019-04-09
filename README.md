@@ -13,4 +13,5 @@ Open up the command prompt first
 -->install electron using the command: npm install --save-dev electron    
 -->install python-shell using the command: npm install --save python-shell   
 -->install requests using the command: pip install requests
- 
+     
+Finally,Open the cmd in the folder and type the command:electron .
