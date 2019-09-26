@@ -1,17 +1,38 @@
 # Python-Electron-Weather-App
 
-##Node modules dependencies:   
-1)electron    
-2)python-shell   
+An Electron desktop app in which the weather details of any city are displayed. 
 
-##Python dependencies:   
-1)requests
+The weather details are generated from Python code which uses [request](https://github.com/psf/requests) to fetch the weather details
 
-....
-Open up the command prompt first   
--->Initialize the project with npm init   
--->install electron using the command: npm install --save-dev electron    
--->install python-shell using the command: npm install --save python-shell   
--->install requests using the command: pip install requests
-     
-Finally,Open the cmd in the folder and type the command:electron .
+
+
+## Python dependency:   
+
+```
+	pip install requests
+```
+
+## Setup the App
+
+- clone this repo
+
+- install packages
+
+** installation of packages will take time because electron installs postinstall which takes much time so have patience :sweat: **
+
+```
+	git clone https://github.com/Saim-Akhtar/Python-Electron-Weather-App.git
+
+	npm install
+
+```
+
+
+## Starting the app
+
+```
+	npm start
+
+```
+
+
