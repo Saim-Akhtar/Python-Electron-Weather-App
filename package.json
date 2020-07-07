@@ -12,7 +12,7 @@
     "python-shell": "^1.0.7"
   },
   "devDependencies": {
-    "electron": "^4.1.4",
+    "electron": "^7.2.4",
     "sweetalert": "^2.1.2"
   }
 }
